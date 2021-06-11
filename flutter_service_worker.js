@@ -68,7 +68,7 @@ const RESOURCES = {
 "icons/logo.png": "6acde00f6572710498a471bb00880fd0",
 "index.html": "ff4241690184ee7d8cb57f77eeeada1e",
 "/": "ff4241690184ee7d8cb57f77eeeada1e",
-"main.dart.js": "5c34e49c5df5b43c2fa4191adc4bf90e",
+"main.dart.js": "e1562320866a782bb02bae95cb2c6cb2",
 "manifest.json": "7eb38060f4e173098d93e51345687ebf",
 "version.json": "b56b9c085297ce1d4241706a823f2c10"
 };
