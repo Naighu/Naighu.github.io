@@ -60918,7 +60918,7 @@ if(!T.afG(p.db,q)){s=t.z
 r=P.z(s,s)
 switch(q.c){case"spottify":r.p(0,"url","https://open.spotify.com/embed/playlist/37i9dQZEVXbLZ52XmnySJg")
 break
-case"vscode":r.p(0,"url","https://github1s.com/vivek9patel/vivek9patel.github.io/blob/HEAD/src/components/ubuntu.js")
+case"vscode":r.p(0,"url","https://github1s.com/naighu/naighu.github.io/#/")
 break
 case"chrome":r.p(0,"url","https://www.google.com/webhp?igu=1")
 break
