@@ -1,0 +1,33 @@
+{
+    "file-icons":{
+        "php" : "assets/system/php.png",
+        "js" :  "assets/system/js.png",
+        "zip" :  "assets/system/zip.png"
+    },
+    "dir-icon": "assets/system/folder.png",
+    "file-open-app":{
+        "zip" : "gedit",
+        "php" : "gedit",
+        "js":"gedit",
+        "*": "gedit"
+        
+    },
+    "menubar-apps":[
+        "chrome",
+        "explorer",
+        "vscode",
+        "terminal",
+        "spottify",
+        "settings"
+    ],
+    "installed-apps":[
+         {"icon" : "assets/app_icons/chrome.png","name":"Chrome","packageName": "chrome"},
+         {"icon" : "assets/system/folder.png","name":"File Explorer","packageName": "explorer"},
+         {"icon" : "assets/app_icons/vscode.png","name":"VS Code","packageName": "vscode"},
+         {"icon" : "assets/app_icons/bash.png","name":"Terminal","packageName": "terminal"},
+         {"icon" : "assets/app_icons/spotify.png","name":"Spottify","packageName": "spottify"},
+         {"icon" : "assets/app_icons/gnome-control-center.png","name":"Settings","packageName": "settings"},
+         {"icon" : "assets/app_icons/gedit.png","name":"Gedit","packageName": "gedit"},
+         {"icon" : "assets/app_icons/profile.png","name":"User-Profile","packageName": "profile"}
+    ]
+}
