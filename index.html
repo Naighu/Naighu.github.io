@@ -30,7 +30,7 @@
     <title>naigal@ubuntu</title>
     <link rel="manifest" href="manifest.json" />
 
-    <script src="battery.js" defer></script>
+   
   </head>
    <body style="background-color: #222222;">
     <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
@@ -66,7 +66,7 @@
       if ("serviceWorker" in navigator) {
         window.addEventListener("flutter-first-frame", function () {
             document.getElementById("loading").style.display = "none";
-            console.log("app starting");
+         
           navigator.serviceWorker.register("flutter_service_worker.js");
         });
       }
