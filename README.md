@@ -4,7 +4,7 @@ Simple Ubuntu GUI made with Flutter.<br><br>
 * View the webite : 
 <a href="https://naighu.github.io/#/">naighu.github.io</a><br><br>
 * Source code :
-  <a href="https://naighu.github.io/#/">source code</a>
+  <a href="https://github.com/Naighu/Ubuntu_flutter">full code</a>
 
 ![Screenshot_20210611_030504](https://user-images.githubusercontent.com/55966649/121559509-420a1800-ca34-11eb-8269-6b634fafc931.png)
 
