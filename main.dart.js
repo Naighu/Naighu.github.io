@@ -60110,7 +60110,7 @@ K.Zy.prototype={
 $0:function(){$.hI().i9("open",["https://www.linkedin.com/in/naigal-roy-554217192"])},
 $S:3}
 K.Zz.prototype={
-$0:function(){$.hI().i9("open",["https://github.com/Naighu"])},
+$0:function(){$.hI().i9("open",["https://github.com/Naighu/Ubuntu_flutter"])},
 $S:3}
 K.ZA.prototype={
 $0:function(){$.hI().i9("open",["https://www.instagram.com/andro_codo_hacks/"])},
